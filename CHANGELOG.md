@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/Machine-x1/shopMore/compare/v1.0.0...v1.1.0) (2022-11-23)
+
+
+### Features
+
+* **init:** add folder structure ([f7f2be6](https://github.com/Machine-x1/shopMore/commit/f7f2be6aafdcbea9aa868fd0a3b031ebd72710a7))
+
 # 1.0.0 (2022-11-23)
 
 
