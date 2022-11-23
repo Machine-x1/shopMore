@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/Machine-x1/shopMore/compare/v1.1.0...v1.2.0) (2022-11-23)
+
+
+### Features
+
+* **login:** add login funcs ([630fe9a](https://github.com/Machine-x1/shopMore/commit/630fe9a5ddd1b12d337e4d0209a3de8ae72ddcb3))
+
 # [1.1.0](https://github.com/Machine-x1/shopMore/compare/v1.0.0...v1.1.0) (2022-11-23)
 
 
