@@ -1,3 +1,10 @@
+# 1.0.0 (2022-11-23)
+
+
+### Features
+
+* **init:** inital the project ([a641f83](https://github.com/Machine-x1/shopMore/commit/a641f839c398272751500a8383ecebeb7ca400a9))
+
 # [3.3.0](https://github.com/ixartz/Next-js-Boilerplate/compare/v3.2.4...v3.3.0) (2022-11-22)
 
 
