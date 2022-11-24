@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const ApiClient = () => {
+const ApiClientLocal = () => {
   const instance = axios.create();
 
   instance.interceptors.request.use(async (request) => {
@@ -13,4 +13,4 @@ const ApiClient = () => {
   return instance;
 };
 
-export default ApiClient();
+export default ApiClientLocal();
