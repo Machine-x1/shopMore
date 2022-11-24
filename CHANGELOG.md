@@ -1,3 +1,12 @@
+# [1.3.0](https://github.com/Machine-x1/shopMore/compare/v1.2.0...v1.3.0) (2022-11-24)
+
+
+### Features
+
+* **Products:** add all products data SSR ([a6cd4fe](https://github.com/Machine-x1/shopMore/commit/a6cd4fe68d24e1e396203d3d76c0f789fbbb2c3f))
+* **Products:** add all products data SSR ([ff14996](https://github.com/Machine-x1/shopMore/commit/ff14996a4a13198beecb496701a810b84c40d350))
+* **userProfile:**  add user profile ([a1e0c4f](https://github.com/Machine-x1/shopMore/commit/a1e0c4f461c74c1853142393a3d59df3e871bb90))
+
 # [1.2.0](https://github.com/Machine-x1/shopMore/compare/v1.1.0...v1.2.0) (2022-11-23)
 
 
